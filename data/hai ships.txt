@@ -118,7 +118,6 @@ description `	The Centipede is the newest ship to be sold by the Hai. Designed b
 
 
 
-
 ship "Flea"
 	sprite "ship/hai flea"
 	attributes
