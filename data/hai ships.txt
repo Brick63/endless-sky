@@ -279,6 +279,31 @@ ship "Grasshopper"
 	"final explode" "final explosion small"
 	description "Designed by the Hai to serve as a fast reconnaissance craft, the Grasshopper has been adopted by thrill-seekers and miners alike. At the same time, it is often used by Hai captains who are looking for effective protection at a low cost."
 
+ship "Grasshopper" "Grasshopper (Pulse)"
+	outfits
+		"Pulse Cannon" 2
+		"Pebble Core"
+		"Hai Chasm Batteries" 2
+		"Hai Corundum Regenerator"
+		"Hai Williwaw Cooling" 2
+		"Quantum Keystone"
+		`"Benga" Atomic Thruster`
+		`"Benga" Atomic Steering`
+		Hyperdrive
+
+ship "Grasshopper" "Grasshopper (Tracker)"
+	outfits
+		"Hai Tracker Pod" 2
+		"Hai Tracker" 112
+		"Pebble Core"
+		"Hai Fissure Batteries"
+		"Hai Corundum Regenerator"
+		"Hai Williwaw Cooling" 2
+		"Quantum Keystone"
+		`"Basrem" Atomic Thruster`
+		`"Basrem" Atomic Steering`
+		Hyperdrive
+
 
 
 ship "Lightning Bug"
