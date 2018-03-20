@@ -206,6 +206,15 @@ outfit "Large Steering Module"
 	"turning heat" 8.2
 	description "By focusing on small, modular engines rather than the massive capital ship drives that most other species develop, the Coalition loses some of the potential efficiency for very large ships, but gains a considerable amount of flexibility."
 
+outfit "Bombardment Rifle"
+	category "Hand to Hand"
+	cost 92000
+	thumbnail "outfit/bombardment rifle"
+	"capture attack" 2.3
+	"capture defense" 4.7
+	"unplunderable" 1
+	description "The Bombardment Rifle is a versatile tool that allows the Heliarchs to properly and effectively protect and police the member races of the Coalition"
+
 outfit "Coalition License"
 	category "Special"
 	thumbnail "outfit/coalition license"
