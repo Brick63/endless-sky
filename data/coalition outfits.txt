@@ -211,9 +211,9 @@ outfit "Bombardment Rifle"
 	cost 92000
 	thumbnail "outfit/bombardment rifle"
 	"capture attack" 2.3
-	"capture defense" 4.7
+	"capture defense" 3.9
 	"unplunderable" 1
-	description "The Bombardment Rifle is a versatile tool that allows the Heliarchs to properly and effectively protect and police the member races of the Coalition"
+	description "The Bombardment Rifle was first introduced during the Coalition's war against the Quarg. Initially it was planned to be retired after the war, however it proved to be an effective tool for keeping the peace and has since been improved upon greatly."
 
 outfit "Coalition License"
 	category "Special"
