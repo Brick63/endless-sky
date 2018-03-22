@@ -206,7 +206,7 @@ outfit "Large Steering Module"
 	"turning heat" 8.2
 	description "By focusing on small, modular engines rather than the massive capital ship drives that most other species develop, the Coalition loses some of the potential efficiency for very large ships, but gains a considerable amount of flexibility."
 
-outfit "Bombardment Rifle"
+outfit "Heliarch Rifle"
 	category "Hand to Hand"
 	cost 92000
 	thumbnail "outfit/bombardment rifle"
