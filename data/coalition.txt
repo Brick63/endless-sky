@@ -254,6 +254,7 @@ outfitter "Heliarch"
 	"Heliarch Attractor"
 	"Heliarch Repulsor"
 	"Ion Rain Gun"
+	"Bombardment Rifle"
 	"Local Map"
 
 

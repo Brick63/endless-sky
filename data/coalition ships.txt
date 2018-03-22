@@ -321,6 +321,7 @@ ship "Heliarch Interdictor" "Heliarch Interdictor (Bombardment)"
 		"Small Shield Module"
 		"Large Repair Module"
 		"Cooling Module"
+		"Bombardment Rifle" 57
 		
 		"Large Thrust Module" 2
 		"Small Thrust Module"
@@ -391,6 +392,7 @@ ship "Heliarch Neutralizer" "Heliarch Neutralizer (Missile)"
 		"Large Shield Module"
 		"Large Repair Module"
 		"Cooling Module"
+		"Bombardment Rifle" 21
 		
 		"Large Thrust Module"
 		"Small Thrust Module" 2
@@ -412,6 +414,7 @@ ship "Heliarch Neutralizer" "Heliarch Neutralizer (Nimble)"
 		"Large Shield Module"
 		"Large Repair Module"
 		"Cooling Module"
+		"Bombardment Rifle" 19
 		
 		"Large Thrust Module"
 		"Small Thrust Module"
@@ -429,6 +432,7 @@ ship "Heliarch Neutralizer" "Heliarch Neutralizer (Scrappy)"
 		"Small Shield Module"
 		"Large Repair Module"
 		"Cooling Module" 2
+		"Bombardment Rifle" 20
 		
 		"Large Thrust Module"
 		"Small Thrust Module"
@@ -512,6 +516,7 @@ ship "Heliarch Punisher" "Heliarch Punisher (Interdicting)"
 		"Large Shield Module" 3
 		"Large Repair Module" 2
 		"Cooling Module" 3
+		"Bombardment Rifle" 106
 		
 		"Large Thrust Module" 2
 		"Small Thrust Module" 2
@@ -542,6 +547,7 @@ ship "Heliarch Punisher" "Heliarch Punisher (Missile)"
 		"Large Shield Module" 5
 		"Large Repair Module" 2
 		"Cooling Module" 2
+		"Bombardment Rifle" 127
 		
 		"Large Thrust Module" 4
 		"Large Steering Module" 2
@@ -565,6 +571,7 @@ ship "Heliarch Punisher" "Heliarch Punisher (Scrappy)"
 		"Large Repair Module" 2
 		"Cooling Module" 5
 		"Outfits Expansion" 3
+		"Bombardment Rifle" 114
 		
 		"Large Thrust Module" 2
 		"Small Thrust Module"
